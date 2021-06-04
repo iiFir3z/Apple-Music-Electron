@@ -1,33 +1,5 @@
 <p align="center">
   <a href="https://github.com/cryptofyre/Apple-Music-Electron"><img src="https://i.imgur.com/2ELPR6I.png" alt="Banner"></a>
-</p>
-
-<p align="center"> 
-  <a href="https://github.com/cryptofyre/Apple-Music-Electron/releases"><strong>View the releases! »</strong></a><br /><br />
-  <a href="https://twitter.com/cryptofyre">Follow Me</a>
-  <b> · </b>
-  <a href="https://github.com/cryptofyre/Apple-Music-Electron/issues/new">Report Bug</a>
-  <b> · </b>
-  <a href="https://github.com/cryptofyre/Apple-Music-Electron/issues/new">Request Feature</a>
-  <b> · </b>
-  <a href="https://github.com/cryptofyre/Apple-Music-Electron/wiki">Wiki</a>
-  <b> · </b>
-  <a href="https://discord.gg/CezHYdXHEM">Discord</a><br />
-</p>
-
-<p align="center"> 
-  <img src="https://img.shields.io/github/stars/cryptofyre/Apple-Music-Electron" alt="Stars">
-  <img src="https://img.shields.io/github/forks/cryptofyre/Apple-Music-Electron" alt="Forks">
-  <img src="https://img.shields.io/github/license/cryptofyre/Apple-Music-Electron" alt="MIT">
-  <img src="https://img.shields.io/github/downloads/cryptofyre/Apple-Music-Electron/total.svg?style=flat" alt="Downloads">
-  <img src="https://img.shields.io/github/release/cryptofyre/Apple-Music-Electron.svg?style=flat" alt="Release">
-  <!--   <img src="https://github.com/cryptofyre/Apple-Music-Electron/actions/workflows/build-analyze.yml/badge.svg" alt="Build"> -->
-  <span class="badge-buymeacoffee">
-    <a href="https://ko-fi.com/cryptofyre" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a>
-  </span>
-</p>
-
-<p align="center">
   <a href="https://github.com/cryptofyre/Apple-Music-Electron">
     <img src="https://i.imgur.com/Im7geg3.png" alt="Features">
     <img src="https://i.imgur.com/ZjC7NYM.png" alt="More Features">
